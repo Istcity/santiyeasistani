@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lev Konut Şantiye Asistanı</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background-color: #0f172a; color: #f8fafc; text-align: center; padding: 50px 20px; }
+        .container { max-width: 600px; margin: 0 auto; background: rgba(255,255,255,0.03); padding: 40px; border-radius: 16px; border: 1px solid rgba(255,255,255,0.05); }
+        h1 { color: #d4af37; margin-bottom: 10px; }
+        p { color: #cbd5e1; line-height: 1.6; }
+        .links { margin-top: 30px; }
+        .links a { color: #3b82f6; text-decoration: none; margin: 0 15px; font-weight: 600; }
+        .links a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Lev Konut</h1>
+        <h3>Şantiye Asistanı</h3>
+        <p>İnşaat maliyet analizi, hava durumu risk takibi ve dinamik şantiye yönetim uygulaması.</p>
+        
+        <div class="links">
+            <a href="#">Gizlilik Politikası (Privacy Policy)</a>
+            <a href="#">Destek ve İletişim (Support)</a>
+            <a href="app-ads.txt">Authorized Digital Sellers (app-ads.txt)</a>
+        </div>
+    </div>
+</body>
+</html>
